@@ -11,3 +11,4 @@ This log tracks architectural and documentation refinements.
 - `2024-04-08` — badges + status
 - `2024-04-25` — clarify component responsibilities
 - `2024-04-25` — scope clarification
+- `2024-04-26` — badges + status
