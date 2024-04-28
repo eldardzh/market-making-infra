@@ -13,3 +13,4 @@ This log tracks architectural and documentation refinements.
 - `2024-04-25` — scope clarification
 - `2024-04-26` — badges + status
 - `2024-04-27` — production status update
+- `2024-04-28` — production status update
