@@ -16,3 +16,4 @@ This log tracks architectural and documentation refinements.
 - `2024-04-28` — production status update
 - `2024-04-29` — terminology cleanup
 - `2024-04-29` — improve mermaid diagram
+- `2024-04-29` — more precise stack list
