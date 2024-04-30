@@ -17,3 +17,4 @@ This log tracks architectural and documentation refinements.
 - `2024-04-29` — terminology cleanup
 - `2024-04-29` — improve mermaid diagram
 - `2024-04-29` — more precise stack list
+- `2024-04-30` — surface key invariants
