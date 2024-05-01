@@ -19,3 +19,4 @@ This log tracks architectural and documentation refinements.
 - `2024-04-29` — more precise stack list
 - `2024-04-30` — surface key invariants
 - `2024-04-30` — badges + status
+- `2024-05-01` — capabilities — clarify wording
