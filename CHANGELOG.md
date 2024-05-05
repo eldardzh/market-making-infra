@@ -23,3 +23,4 @@ This log tracks architectural and documentation refinements.
 - `2024-05-01` — badges + status
 - `2024-05-02` — rephrase TL;DR
 - `2024-05-02` — rephrase capabilities
+- `2024-05-05` — scope clarification
