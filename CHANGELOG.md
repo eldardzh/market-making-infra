@@ -24,3 +24,4 @@ This log tracks architectural and documentation refinements.
 - `2024-05-02` — rephrase TL;DR
 - `2024-05-02` — rephrase capabilities
 - `2024-05-05` — scope clarification
+- `2024-05-21` — production status update
