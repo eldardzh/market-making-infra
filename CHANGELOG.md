@@ -29,3 +29,4 @@ This log tracks architectural and documentation refinements.
 - `2024-05-21` — heading hierarchy
 - `2024-05-22` — terminology cleanup
 - `2024-05-22` — production status update
+- `2024-05-22` — scope clarification
