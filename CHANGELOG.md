@@ -33,3 +33,4 @@ This log tracks architectural and documentation refinements.
 - `2024-05-24` — link external references
 - `2024-06-24` — expand 'My Role' section
 - `2024-08-12` — rephrase capabilities
+- `2024-08-13` — production status update
