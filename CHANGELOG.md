@@ -35,3 +35,4 @@ This log tracks architectural and documentation refinements.
 - `2024-08-12` — rephrase capabilities
 - `2024-08-13` — production status update
 - `2024-08-13` — ADR — chain-agnostic boundary
+- `2024-08-15` — gitignore
