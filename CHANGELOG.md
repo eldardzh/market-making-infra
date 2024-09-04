@@ -37,3 +37,4 @@ This log tracks architectural and documentation refinements.
 - `2024-08-13` — ADR — chain-agnostic boundary
 - `2024-08-15` — gitignore
 - `2024-09-04` — expand 'My Role' section
+- `2024-09-04` — surface key invariants
