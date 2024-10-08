@@ -40,3 +40,4 @@ This log tracks architectural and documentation refinements.
 - `2024-09-04` — surface key invariants
 - `2024-09-05` — capabilities — clarify wording
 - `2024-10-08` — refine engineering invariants
+- `2024-10-08` — cross-link related repositories
