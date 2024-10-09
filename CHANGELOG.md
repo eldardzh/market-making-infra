@@ -42,3 +42,4 @@ This log tracks architectural and documentation refinements.
 - `2024-10-08` — refine engineering invariants
 - `2024-10-08` — cross-link related repositories
 - `2024-10-08` — surface key invariants
+- `2024-10-09` — more precise stack list
