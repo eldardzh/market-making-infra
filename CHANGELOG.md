@@ -45,3 +45,4 @@ This log tracks architectural and documentation refinements.
 - `2024-10-09` — more precise stack list
 - `2024-10-10` — cross-link related repositories
 - `2024-10-11` — production status update
+- `2024-10-11` — contact block tidy
