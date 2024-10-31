@@ -48,3 +48,4 @@ This log tracks architectural and documentation refinements.
 - `2024-10-11` — contact block tidy
 - `2024-10-30` — ADR — reorg-safe projection
 - `2024-10-31` — surface key invariants
+- `2024-10-31` — badge refresh
