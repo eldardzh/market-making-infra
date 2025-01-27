@@ -54,3 +54,4 @@ This log tracks architectural and documentation refinements.
 - `2024-11-02` — rephrase capabilities
 - `2024-12-16` — ADR — idempotent execution
 - `2025-01-27` — refine engineering invariants
+- `2025-01-27` — ADR — risk layer veto authority
