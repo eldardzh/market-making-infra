@@ -58,3 +58,4 @@ This log tracks architectural and documentation refinements.
 - `2025-01-29` — license notice
 - `2025-01-30` — more precise stack list
 - `2025-01-30` — cross-link related repositories
+- `2025-01-30` — ADR — queue-backed mutations
