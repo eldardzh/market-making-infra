@@ -56,3 +56,4 @@ This log tracks architectural and documentation refinements.
 - `2025-01-27` — refine engineering invariants
 - `2025-01-27` — ADR — risk layer veto authority
 - `2025-01-29` — license notice
+- `2025-01-30` — more precise stack list
