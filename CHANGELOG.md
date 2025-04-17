@@ -59,3 +59,4 @@ This log tracks architectural and documentation refinements.
 - `2025-01-30` — more precise stack list
 - `2025-01-30` — cross-link related repositories
 - `2025-01-30` — ADR — queue-backed mutations
+- `2025-04-17` — refine engineering invariants
