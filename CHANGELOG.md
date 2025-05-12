@@ -61,3 +61,4 @@ This log tracks architectural and documentation refinements.
 - `2025-01-30` — ADR — queue-backed mutations
 - `2025-04-17` — refine engineering invariants
 - `2025-04-18` — rephrase capabilities
+- `2025-05-12` — tighten architecture overview
