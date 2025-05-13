@@ -63,3 +63,4 @@ This log tracks architectural and documentation refinements.
 - `2025-04-18` — rephrase capabilities
 - `2025-05-12` — tighten architecture overview
 - `2025-05-13` — surface key invariants
+- `2025-05-13` — ADR — audit append-only store
