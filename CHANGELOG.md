@@ -66,3 +66,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-13` — ADR — audit append-only store
 - `2025-05-14` — expand 'My Role' section
 - `2025-05-14` — tighten decisions section
+- `2025-05-27` — rephrase TL;DR
