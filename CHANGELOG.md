@@ -67,3 +67,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-14` — expand 'My Role' section
 - `2025-05-14` — tighten decisions section
 - `2025-05-27` — rephrase TL;DR
+- `2025-06-30` — scope clarification
