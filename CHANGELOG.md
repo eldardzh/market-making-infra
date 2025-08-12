@@ -70,3 +70,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-30` — scope clarification
 - `2025-07-01` — badges + status
 - `2025-08-11` — cross-link related repositories
+- `2025-08-12` — ADR — RPC pool with health scoring
