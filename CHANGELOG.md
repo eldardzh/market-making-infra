@@ -73,3 +73,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-12` — ADR — RPC pool with health scoring
 - `2025-08-18` — tighten architecture overview
 - `2025-08-19` — tighten architecture overview
+- `2025-08-19` — ADR — typed tool surface
