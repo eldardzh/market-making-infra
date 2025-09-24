@@ -76,3 +76,4 @@ This log tracks architectural and documentation refinements.
 - `2025-08-19` — ADR — typed tool surface
 - `2025-08-20` — tighten architecture overview
 - `2025-08-20` — refine engineering invariants
+- `2025-09-24` — ADR — checkpoint at safe boundaries
