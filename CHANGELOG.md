@@ -82,3 +82,4 @@ This log tracks architectural and documentation refinements.
 - `2025-09-30` — expand 'My Role' section
 - `2025-09-30` — terminology cleanup
 - `2025-09-30` — surface key invariants
+- `2025-09-30` — markdown lint
