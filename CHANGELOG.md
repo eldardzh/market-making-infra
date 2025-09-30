@@ -80,3 +80,4 @@ This log tracks architectural and documentation refinements.
 - `2025-09-25` — tighten architecture overview
 - `2025-09-29` — contact block tidy
 - `2025-09-30` — expand 'My Role' section
+- `2025-09-30` — terminology cleanup
