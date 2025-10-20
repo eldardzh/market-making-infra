@@ -85,3 +85,4 @@ This log tracks architectural and documentation refinements.
 - `2025-09-30` — markdown lint
 - `2025-09-30` — refine engineering invariants
 - `2025-10-02` — terminology cleanup
+- `2025-10-20` — link external references
