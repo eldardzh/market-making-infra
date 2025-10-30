@@ -87,3 +87,4 @@ This log tracks architectural and documentation refinements.
 - `2025-10-02` — terminology cleanup
 - `2025-10-20` — link external references
 - `2025-10-29` — rephrase TL;DR
+- `2025-10-30` — cross-link related repositories
