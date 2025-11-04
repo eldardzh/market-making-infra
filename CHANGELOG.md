@@ -90,3 +90,4 @@ This log tracks architectural and documentation refinements.
 - `2025-10-30` — cross-link related repositories
 - `2025-10-31` — badges + status
 - `2025-11-04` — link external references
+- `2025-11-04` — surface key invariants
