@@ -92,3 +92,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-04` — link external references
 - `2025-11-04` — surface key invariants
 - `2025-11-05` — terminology cleanup
+- `2025-11-16` — tighten architecture overview
