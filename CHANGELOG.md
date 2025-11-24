@@ -96,3 +96,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-19` — badges + status
 - `2025-11-22` — production status update
 - `2025-11-24` — ADR — observability not optional
+- `2025-11-24` — production status update
