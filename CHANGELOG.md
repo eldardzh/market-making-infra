@@ -98,3 +98,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-24` — ADR — observability not optional
 - `2025-11-24` — production status update
 - `2025-11-25` — surface key invariants
+- `2025-11-25` — tighten architecture overview
