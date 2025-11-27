@@ -100,3 +100,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-25` — surface key invariants
 - `2025-11-25` — tighten architecture overview
 - `2025-11-27` — tighten architecture overview
+- `2025-11-27` — clarify component responsibilities
