@@ -101,3 +101,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-25` — tighten architecture overview
 - `2025-11-27` — tighten architecture overview
 - `2025-11-27` — clarify component responsibilities
+- `2025-11-29` — badge refresh
