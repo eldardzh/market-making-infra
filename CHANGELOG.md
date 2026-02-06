@@ -104,3 +104,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-29` — badge refresh
 - `2025-12-01` — link external references
 - `2026-02-06` — scope clarification
+- `2026-02-06` — tighten architecture overview
