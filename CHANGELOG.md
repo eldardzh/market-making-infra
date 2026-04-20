@@ -105,3 +105,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-01` — link external references
 - `2026-02-06` — scope clarification
 - `2026-02-06` — tighten architecture overview
+- `2026-04-20` — rephrase TL;DR
