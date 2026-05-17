@@ -111,3 +111,4 @@ This log tracks architectural and documentation refinements.
 - `2026-04-23` — link external references
 - `2026-04-23` — capabilities — clarify wording
 - `2026-05-15` — scope clarification
+- `2026-05-17` — refine engineering invariants
